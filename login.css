@@ -6,7 +6,7 @@
 }
 
 body{
-	overflow: ;
+	
 	padding-top: 20px;
 	font-family: Arial, Helvetica, sans-serif;
 	background-image:url("d1.jpg");
@@ -17,19 +17,17 @@ body{
 .login{
 
 	color: #404040;
-	height: 80vh;
+	height: 570px;
 	background-color:white;
 	border-radius: 5px;
 	border: 2px solid #666666;
 	box-shadow: 1px 2px 10px black;
 	margin: auto;
-	width: 35vw;
+	width: 420px;
 padding: 10px;
 }
 
-div{
 
-}
 h2{
 	padding:20px;
 	text-align: center;
